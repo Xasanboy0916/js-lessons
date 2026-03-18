@@ -110,8 +110,18 @@
 // console.log(sum(1, 2, 3, 4, 5))
 // console.log(sum(6, 8, 10, 12))
 
-// Function parameterlarini destructuring qilish
-function greet({ name, age }) {
-	console.log(`Salom ${name}! Yoshingiz: ${age}`)
-}
-greet({ name: 'Ali', age: 16 }) // Salom Ali! Yoshingiz: 25
+// // Function parameterlarini destructuring qilish
+// function greet({ name, age }) {
+// 	console.log(`Salom ${name}! Yoshingiz: ${age}`)
+// }
+// greet({ name: 'Ali', age: 16 }) // Salom Ali! Yoshingiz: 25
+
+// Swap value
+let f = 5
+let g = 7
+
+// 1. usul
+// let temp = f
+// f = g
+// g = temp
+// console.log(f, g)[ // 7 5
