@@ -117,8 +117,8 @@
 // greet({ name: 'Ali', age: 16 }) // Salom Ali! Yoshingiz: 25
 
 // Swap value
-let f = 5
-let g = 7
+// let f = 5
+// let g = 7
 
 // 1. usul
 // let temp = f
